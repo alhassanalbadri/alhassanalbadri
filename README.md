@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alhassanbilkent
 - 👀 I’m interested in **Computer Engineering** & **Web Development**.
-- 📫 How to reach me **raad.albadri@ug.bilkent.edu.tr**
+- 📫 Reach me through my email: **raad.albadri@ug.bilkent.edu.tr**
 - 🌐 You can view my portfolio at [porfolio website](https://alhassan.dev).
 <br>
   
